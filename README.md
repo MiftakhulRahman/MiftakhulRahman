@@ -8,7 +8,7 @@
 </div>
 
 ###
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe id="js_video_iframe" src="https://jumpshare.com/embed/GD8SN2lsCJnV6tXhvvu3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<a href="https://jmp.sh/v/GD8SN2lsCJnV6tXhvvu3"><p style="margin-bottom: 0 !important;">tenor - View Image</p><img style="max-width:400px;" src="https://previews.jumpshare.com/gif/815bc01b796dd6f1733c957c5af194939ef29f424471ccc247ff5039560be19807a5dea3b58fe187d4ecff4086857dc462458f43273e6d9c2acafb36513bf389f2c0f894c3e69b387ada630dee21330c"></a>
 
 ###
 <div align="left">
