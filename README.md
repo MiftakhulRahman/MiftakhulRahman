@@ -8,7 +8,7 @@
 </div>
 
 ###
-<img align="right" height="150" src="https://jmp.sh/gzSxKKlB"  />
+<img align="right" height="150" src="https://jmp.sh/gzSxKKlB">
 
 ###
 <div align="left">
