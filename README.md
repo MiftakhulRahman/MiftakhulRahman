@@ -8,7 +8,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MiftakhulRahman&show_icons=true&include_all_commits=true&count_private=true&theme=white&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiftakhulRahman&layout=compact&langs_count=5&theme=white&hide_border=false" height="150" />
-    <img height="149" src="https://previews.jumpshare.com/gif/815bc01b796dd6f1733c957c5af194939ef29f424471ccc247ff5039560be19807a5dea3b58fe187d4ecff4086857dc462458f43273e6d9c2acafb36513bf389f2c0f894c3e69b387ada630dee21330c" />
+  <br/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 ---
@@ -45,7 +46,4 @@
   <a href="mailto:miftakhulr@student.unuha.ac.id" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://scholar.google.com/citations?user=fOGPEVEAAAAJ&hl=id" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  </a>
-</p>
+  <a href="https://scholar.google.com/citations?user=fOGPEVEA
