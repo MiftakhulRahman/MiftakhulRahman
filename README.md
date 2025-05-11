@@ -6,8 +6,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiftakhulRahman&show_icons=true&include_all_commits=true&count_private=true&theme=white&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiftakhulRahman&layout=compact&langs_count=5&theme=white&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MiftakhulRahman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=white&locale=en&hide_border=false&hide_rank=true&rank_icon=github" height="150" alt="statistik github"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiftakhulRahman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=white&hide_border=false" height="150" alt="bahasa yang digunakan"  />
   <br/>
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
