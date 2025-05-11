@@ -6,7 +6,7 @@
   Aktif mengerjakan proyek kecil dengan PHP, JavaScript, dan Python.
 </p>
 
---
+<hr>
 
 ### 📊 GitHub Stats
 
@@ -16,7 +16,7 @@
     <img height="149" src="https://previews.jumpshare.com/gif/815bc01b796dd6f1733c957c5af194939ef29f424471ccc247ff5039560be19807a5dea3b58fe187d4ecff4086857dc462458f43273e6d9c2acafb36513bf389f2c0f894c3e69b387ada630dee21330c" />
 </div>
 
---
+<hr>
 
 ### 💻 Tech Stack
 
@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
 </p>
 
---
+<hr>
 
 ### 📫 Connect with Me
 
