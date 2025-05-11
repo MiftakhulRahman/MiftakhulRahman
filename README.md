@@ -2,8 +2,7 @@
 <h3 align="center">Mahasiswa Semester 6, Program Studi Informatika, Universitas Nurul Huda</h3>
 
 <p align="center">
-  Saya seorang mahasiswa yang menyukai pengembangan web, pemrograman, dan teknologi.  
-  Aktif mengerjakan proyek kecil dengan PHP, JavaScript, dan Python.
+Saya tertarik pada pengembangan web dan Machine Learning, serta sering mengerjakan proyek kecil menggunakan PHP dan Python.
 </p>
 
 <hr>
