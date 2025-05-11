@@ -16,7 +16,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="logo python"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="logo laravel"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/75px-Laravel.svg.png" height="30" alt="logo laravel"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="logo mysql"  />
 </div>
@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo email"  />
   </a>
   <a href="https://scholar.google.com/citations?user=fOGPEVEAAAAJ&hl=id" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Google Scholar&logo=googlescholar&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo google scholar"  />
+    <img src="https://img.shields.io/static/v1?message=Google Scholar&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB1klEQVQ4jYWTz2sTURDHP7PZbBoTk1KRWovRQ0QQEXrw0It/gYKCeBUUBL2199aLRy/+AXrw1FPBgzcvihdPohQ8NPgDhLS2ENJms9mflzczHraRpIkODLzHvO98Z943T1QVAFUtiAhRFOH7PgBxHNNo9EVRWA4Cu1+MRiMF62I+nys3TJIEgGfPn9s3L17y+s0bDh0+zGB/n08fPwDgBwFRFFVrtRql4ZDT1TOnOVOt0mw2GY1GLC0tcf/eXcbjMRcuXuLp+jpJ4qjVarRaLWu1Wiq9bobcvnOHne0tknRKnudbG8Mhn4cbjLa36PV77N+/j4cPHrRtEAS5gi1FUKJoj15cojvZIfjpsw9ev/wHIIpSsRZBGRCKKClDi9UgWK7WYqwl+b59/wBAEAQUS6v7NlmWEYYhURQVLSKAcrYaoepptVq0220Wi4Vn2+12vw1IkiQYY3oiEueqhVKQAVEUMRwO6Xa7LD5s2r1YLJZLwLm5qmoiIh0R8eb9pFar9TvwDyBJErIsu6WqecHCGLNrWTl2OzebzTrGmNiFz9PprLfn8FJH2QUgz3NA34Ey7QL0er03QRCsOYA8z9kDVQGIouj3CgmMMfnKysrhH5d2SBuV6iOnAAAAAElFTkSuQmCC&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="logo google scholar"  />
   </a>
 </div>
 
