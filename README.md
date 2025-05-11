@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Saya Miftakhul Rahman <h3 align="center">Mahasiswa Semester 6, Program Studi Informatika, Universitas Nurul Huda</h3></h1>
+<h1 align="center">Hi 👋, Saya Miftakhul Rahman <br> Mahasiswa Semester 6, Program Studi Informatika, Universitas Nurul Huda</h1>
 
 ###
 <div align="center">
