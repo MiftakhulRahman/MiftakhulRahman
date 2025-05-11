@@ -2,7 +2,6 @@
 <h3 align="center">Mahasiswa Semester 6, Program Studi Informatika, Universitas Nurul Huda</h3>
 
 <p align="center">
-  <img align="right" height="180" src="https://previews.jumpshare.com/gif/815bc01b796dd6f1733c957c5af194939ef29f424471ccc247ff5039560be19807a5dea3b58fe187d4ecff4086857dc462458f43273e6d9c2acafb36513bf389f2c0f894c3e69b387ada630dee21330c" />
   Saya seorang mahasiswa yang menyukai pengembangan web, pemrograman, dan teknologi.  
   Aktif mengerjakan proyek kecil dengan PHP, JavaScript, dan Python.
 </p>
@@ -14,6 +13,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MiftakhulRahman&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiftakhulRahman&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" />
+    <img height="180" src="https://previews.jumpshare.com/gif/815bc01b796dd6f1733c957c5af194939ef29f424471ccc247ff5039560be19807a5dea3b58fe187d4ecff4086857dc462458f43273e6d9c2acafb36513bf389f2c0f894c3e69b387ada630dee21330c" />
 </div>
 
 ---
