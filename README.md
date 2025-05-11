@@ -42,20 +42,7 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="logo whatsapp" />
   </a>
 <a href="https://scholar.google.com/citations?user=fOGPEVEAAAAJ&hl=id" target="_blank" style="text-decoration: none;">
-  <span style="
-    display: inline-flex;
-    align-items: center;
-    background-color: #4285F4;
-    color: white;
-    font-family: sans-serif;
-    font-size: 14px;
-    border-radius: 4px;
-    padding: 6px 10px;
-    height: 30px;
-  ">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png?20200110094142" alt="Google Scholar" height="18" style="margin-right: 6px;" />
-    Google Scholar
-  </span>
+ <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google&logoColor=white" height="30" alt="Google Scholar" />
 </a>
 
 </div>
